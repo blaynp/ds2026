@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: USTH ICT1
-* Student ID: Not-Vietnamese
+* Student Name: Nguyễn Công Phúc ICT
+* Student ID: 23BI14359
 * Student Group ID: Not-for-now
